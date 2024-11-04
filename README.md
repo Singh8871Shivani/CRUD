@@ -1,6 +1,6 @@
 # CRUD Operation
 <br/>
-# <b> using NodeJs and MySQL <b>
+# <h2> using NodeJs and MySQL <h2>
 <br/>
 # fetching data from server
 <br/>
@@ -8,4 +8,4 @@
 <br/>
 # performing update existing book operation
 <br/>
-# performing delete book operating 
+# performing delete book operation
